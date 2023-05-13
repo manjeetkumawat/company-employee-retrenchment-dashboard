@@ -9,8 +9,8 @@ Project Work Description :
 
 -------------------------------------------
 
-RawData File : HR employee data.zip (CSV Files)
-
+RawData File : 1.HR employee data.csv (CSV Files)
+               2.HR Analytics Data.csv
 PowerBI File : Hr Dashboard.pbix
 
 ![hr1](https://github.com/mkumawat20/Suicides-in-India-dashboard/assets/131505771/56023129-0035-44b5-8948-8a19e6091737)
